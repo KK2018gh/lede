@@ -1,0 +1,3 @@
+src-git smallpackage https://github.com/KK2018gh/small-package.git
+src-git small https://github.com/kenzok8/small.git
+src-git gecoosac https://github.com/lwb1978/openwrt-gecoosac.git
