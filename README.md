@@ -146,5 +146,3 @@ PS > git clone git@github.com:coolsnowwolf/lede.git <your_local_lede_path>
    ```
 
 5. 重新加载一下 shell 启动文件 `source ~/.bashrc`，然后输入 `bash` 进入 bash shell，就可以和 Linux 一样正常编译了
-
- ![star](doc/star.png)
