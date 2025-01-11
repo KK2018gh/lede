@@ -66,6 +66,7 @@ make V=s -j$(nproc)
 
 ```bash
 rm -rf .config
+# rm -rf ./tmp && rm -rf .config
 make menuconfig
 make V=s -j$(nproc)
 ```
