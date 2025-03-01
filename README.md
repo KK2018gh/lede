@@ -31,6 +31,7 @@
 
    ```bash
    git clone https://github.com/KK2018gh/lede
+   # git clone -b openwrt-24.10 --single-branch https://github.com/immortalwrt/immortalwrt.git
    cd lede
    ./scripts/feeds update -a
    ./scripts/feeds install -a
